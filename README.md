@@ -2,6 +2,7 @@
 
 ## 使用技術
 
+<p>
 <img src="https://img.shields.io/badge/-Terraform-silver.svg?logo=terraform">
 <img src="https://img.shields.io/badge/-AWS-silver.svg?logo=amazonwebservices">
 <img src="https://img.shields.io/badge/-AWS Fargate-silver.svg?logo=awsfargate">
@@ -10,6 +11,7 @@
 <img src="https://img.shields.io/badge/-AWS Route53-silver.svg?logo=amazonroute53">
 <img src="https://img.shields.io/badge/-AWS SES-silver.svg?logo=awssecretsmanager">
 <img src="https://img.shields.io/badge/-AWS CloudWatch-silver.svg?logo=amazoncloudwatch">
+</p>
 
 ## セットアップ
 
